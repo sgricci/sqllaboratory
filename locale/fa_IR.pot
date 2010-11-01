@@ -360,8 +360,8 @@ msgstr: "خروج"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "به دلایلی پارامتر‌های جدول مشمول درخواست شما نمی‌باشد"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "خوش آمدید SQL Buddy به"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "خوش آمدید SQL Laboratory به"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "%s با نام کاربری %s اتصال موفقیت آمیز به"
@@ -369,11 +369,11 @@ msgstr: "%s با نام کاربری %s اتصال موفقیت آمیز به"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "سرور پایگاه داده از %s در حال سرویس‌دهی است و تقریبا %s از مجموع داده‌ها را انتقال داده است."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "نسخه جدیدِ SQL Buddy منتشر شده است"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "نسخه جدیدِ SQL Laboratory منتشر شده است"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "شما در حال استفاده از SQL Buddy %s هستید و هم‌اکنون نسخه‌ی %s منتشر شده است."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "شما در حال استفاده از SQL Laboratory %s هستید و هم‌اکنون نسخه‌ی %s منتشر شده است."
 
 msgid: "Getting started"
 msgstr: "شروع کنید"

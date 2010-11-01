@@ -360,8 +360,8 @@ msgstr: "Afmelden"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Omwille een bepaalde reden was de tabelparameter niet in uw verzoek meegenomen"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Welkom bij SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Welkom bij SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "U bent verbonden met MySQL %s als gebruiker %s"
@@ -369,11 +369,11 @@ msgstr: "U bent verbonden met MySQL %s als gebruiker %s"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "De databaseserver draait sinds %s en heeft ongeveer %s data verzonden"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Er is een nieuwe versie van SQL Buddy beschikbaar!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Er is een nieuwe versie van SQL Laboratory beschikbaar!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "U heeft SQL Buddy %s geïnstalleerd en %s is nu beschikbaar"
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "U heeft SQL Laboratory %s geïnstalleerd en %s is nu beschikbaar"
 
 msgid: "Getting started"
 msgstr: "Hoe te beginnen"

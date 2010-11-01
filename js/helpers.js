@@ -183,7 +183,7 @@ function finishTabLoad(responseText) {
 	} else {
 		pageTitle = sb.getTabTitle(sb.topTab);
 	}
-	document.title = "SQL Buddy - " + pageTitle;
+	document.title = "SQL Laboratory - " + pageTitle;
 	
 	refreshRowCount();
 }

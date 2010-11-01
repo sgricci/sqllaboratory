@@ -1,15 +1,15 @@
 <?php
 /*
 
-SQL Buddy - Web based MySQL administration
-http://www.sqlbuddy.com/
+SQL Laboratory - Web based MySQL administration
+http://projects.deepcode.net/sqllaboratory
 
 ajaxquery.php
 - used for a variety of ajax functionality - runs a background query
 
 MIT license
 
-2008 Calvin Lough <http://calv.in>
+2008 Calvin Lough <http://calv.in>, Steve Gricci <http://deepcode.net>
 
 */
 

@@ -360,8 +360,8 @@ msgstr: "Elsaluti"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Ial la tabela parametro ne estis enmetita en via enketo"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Bonvenon al SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Bonvenon al SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Vi estas konektita al MySQL %s estante la uzanto %s."
@@ -369,11 +369,11 @@ msgstr: "Vi estas konektita al MySQL %s estante la uzanto %s."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "La datumbaza servilo funcias ekde %s kaj movis proksimume %s da datumoj."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Nova eldono de SQL Buddy estas elŝutebla!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Nova eldono de SQL Laboratory estas elŝutebla!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Vi instalis SQL Buddy %s. Ĝi nun estas laboronta."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Vi instalis SQL Laboratory %s. Ĝi nun estas laboronta."
 
 msgid: "Getting started"
 msgstr: "Enkonduko"

@@ -1,15 +1,15 @@
 <?php
 /*
 
-SQL Buddy - Web based MySQL administration
-http://www.sqlbuddy.com/
+SQL Laboratory - Web based MySQL administration
+http://projects.deepcode.net/sqllaboratory
 
 ajaxfulltext.php
 - fetches full text for browse tab
 
 MIT license
 
-2008 Calvin Lough <http://calv.in>
+2008 Calvin Lough <http://calv.in>, 2010 Steve Gricci <http://deepcode.net>
 
 */
 

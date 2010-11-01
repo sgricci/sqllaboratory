@@ -360,8 +360,8 @@ msgstr: "Logout"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Untuk alasan tertentu, parameter tabel tidak disertakan dalam query anda"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Selamat datang di SQL Buddy"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Selamat datang di SQL Laboratory"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Anda terkoneksi ke MySQL %s atas nama user %s"
@@ -369,11 +369,11 @@ msgstr: "Anda terkoneksi ke MySQL %s atas nama user %s"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Server database telah berjalan sejak %s dan telah mentransfer kurang lebih %s data."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Versi terbaru SQL Buddy telah tersedia"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Versi terbaru SQL Laboratory telah tersedia"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Versi SQL Buddy Anda adalah %s dan sekarang telah tersedia versi %s."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Versi SQL Laboratory Anda adalah %s dan sekarang telah tersedia versi %s."
 
 msgid: "Getting started"
 msgstr: "Pendahuluan"

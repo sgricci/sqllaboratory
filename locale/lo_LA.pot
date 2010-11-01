@@ -360,8 +360,8 @@ msgstr: "ອອກຈາກລະບົບ"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "ດ້ວຍເຫດຜົນບາງປະການ ເຮັດໃຫ້ພາຣາເມັດເຕີຂອງຕາຕະລາງ ບໍ່ໄດ້ຖືກໃສ່ມານຳຄຳຮ້ອງຂໍຂອງທ່ານ"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "ຍິນດີຕ້ອນຮັບ ເຂົ້າສູ່ SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "ຍິນດີຕ້ອນຮັບ ເຂົ້າສູ່ SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "ທ່ານໄດ້ເຊື່ອມຕໍ່ເຂົ້າຖານຂໍ້ມູນ %s ໃສຊື່ %s."
@@ -369,11 +369,11 @@ msgstr: "ທ່ານໄດ້ເຊື່ອມຕໍ່ເຂົ້າຖາ�
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "ລະບົບຖານຂໍ້ມູນນີ້ຖືກເປີດໃຊ້ມາຕັ້ງແຕ່ %s ແລະສົ່ງຂໍ້ມູນໄປແລ້ວປະມານ %s."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "ເວີຊັນໃຫມ່ຂອງ SQL Buddy ອອກແລ້ວ!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "ເວີຊັນໃຫມ່ຂອງ SQL Laboratory ອອກແລ້ວ!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "ທ່ານກຳລັງໃຊ້ SQL Buddy ເວີຊັນ %s ແລະຕອນນີ້ເວີຊັນ %s ມີໃຫ້ດາວໂຫລດແລ້ວ."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "ທ່ານກຳລັງໃຊ້ SQL Laboratory ເວີຊັນ %s ແລະຕອນນີ້ເວີຊັນ %s ມີໃຫ້ດາວໂຫລດແລ້ວ."
 
 msgid: "Getting started"
 msgstr: "ເລີ່ມໃຊ້ງານ"

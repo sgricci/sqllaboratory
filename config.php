@@ -1,15 +1,15 @@
 <?php
 /*
 
-SQL Buddy - Web based MySQL administration
-http://www.sqlbuddy.com/
+SQL Laboratory - Web based MySQL administration
+http://projects.deepcode.net/sqllaboratory
 
 config.php
 - options for customizing sql buddy
 
 MIT license
 
-2008 Calvin Lough <http://calv.in>
+2008 Calvin Lough <http://calv.in>, 2010 Steve Gricci <http://deepcode.net>
 
 */
 
@@ -36,12 +36,12 @@ $sbconfig['DefaultUser'] = "root";
 // $sbconfig['DefaultDatabase'] = "";
 
 /*
-* By default, when you view the homepage of your SQL Buddy installation, a check is
+* By default, when you view the homepage of your SQL Laboratory installation, a check is
 * performed to see if a newer version of the application is available. No personal 
 * information is sent about your installation and the response from the server is sent
 * as plain text. If, for some reason, you want to disable this behaviour, set this option
 * to true to disable automatic checking for updates. To learn about new versions, you can
-* always check the projects website at http://www.sqlbuddy.com/
+* always check the projects website at http://projects.deepcode.net/sqllaboratory
 */
 
 $sbconfig['EnableUpdateCheck'] = true;

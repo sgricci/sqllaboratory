@@ -360,8 +360,8 @@ msgstr: "Lumabas"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Sa hindi malamang dahilan ay hindi nasama ang parameter ng talaan sa iyong ipinasa"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Maligayang paggamit ng SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Maligayang paggamit ng SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Ikaw ay nakakonekta sa MySQL %s bilang si %s."
@@ -369,11 +369,11 @@ msgstr: "Ikaw ay nakakonekta sa MySQL %s bilang si %s."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Ang database ay gumagana mula % at naglipat ng humigit kumulang na % ng datos."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Meron ng mas bagong bersyon ng SQL Buddy!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Meron ng mas bagong bersyon ng SQL Laboratory!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Ang gamit mong SQL Buddy %s at %s ay nilabas na."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Ang gamit mong SQL Laboratory %s at %s ay nilabas na."
 
 msgid: "Getting started"
 msgstr: "Pagsisimula"

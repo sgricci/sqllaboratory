@@ -360,8 +360,8 @@ msgstr: "Завершить сеанс"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "По некоторым причинам параметр таблицы не был включен в ваш запрос"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Добро пожаловать в SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Добро пожаловать в SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Вы подсоединены к MySQL %s пользователем %s"
@@ -369,11 +369,11 @@ msgstr: "Вы подсоединены к MySQL %s пользователем %s
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Сервер БД работает с %s и передал примерно %s данных"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Доступна новая версия  SQL Buddy"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Доступна новая версия  SQL Laboratory"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "У вас установлена SQL Buddy %s, сейчас доступна %s"
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "У вас установлена SQL Laboratory %s, сейчас доступна %s"
 
 msgid: "Getting started"
 msgstr: "С чего начать?"

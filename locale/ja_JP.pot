@@ -360,8 +360,8 @@ msgstr: "ログアウト"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "何らかの理由でテーブルのパラメータは含まれませんでした"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "SQL Buddy へようこそ！"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "SQL Laboratory へようこそ！"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "データベース%sへ、ユーザ名%sで接続しました。"
@@ -369,11 +369,11 @@ msgstr: "データベース%sへ、ユーザ名%sで接続しました。"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "データベースサーバは、%sから稼働していて、約%sのデータが転送されました。"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "新しいバージョンのSQL Buddyが入手可能です"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "新しいバージョンのSQL Laboratoryが入手可能です"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "SQL Buddy %s がインストールされ、%s が利用可能になりました。"
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "SQL Laboratory %s がインストールされ、%s が利用可能になりました。"
 
 msgid: "Getting started"
 msgstr: "はじめに"

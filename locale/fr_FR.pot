@@ -360,8 +360,8 @@ msgstr: "Déconnexion"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Pour une raison inconnue, le paramètre de table n'Ã©tait pas inclut dans votre requête"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Bienvenue dans SQL Buddy !"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Bienvenue dans SQL Laboratory !"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Vous êtes connectés à  MySQL %s avec l'utilisateur %s."
@@ -369,11 +369,11 @@ msgstr: "Vous êtes connectés à  MySQL %s avec l'utilisateur %s."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Le serveur de la base de données fonctionne depuis %s et a transféré environ %s de données."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Une nouvelle version de SQL Buddy est disponible !"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Une nouvelle version de SQL Laboratory est disponible !"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Vous avez SQL Buddy %s installé, cependant la version %s est disponible au téléchargement."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Vous avez SQL Laboratory %s installé, cependant la version %s est disponible au téléchargement."
 
 msgid: "Getting started"
 msgstr: "Commencez !"
@@ -586,7 +586,7 @@ msgid: "Are you sure you want to drop the database '%s'? This will delete the da
 msgstr: "Êtes vous sûr de vouloir supprimer la base de données '%s'?  Toutes les données ainsi que toutes les tables vont être supprimées. La requête suivante va être exécutée :"
 
 msgid: "We're sorry, but currently only Internet Explorer 7 is supported. It is available as a free download on Microsoft's website. Other free browsers are also supported, including Firefox, Safari, and Opera."
-msgstr: "Nous sommes désolés, mais pour le moment seul Internet Explorer 7 est compatible avec SQL Buddy. Il est disponible gratuitement sur le site de Microsoft. D'autres navigateurs comme Firefox, Safari et Opéra sont compatibles."
+msgstr: "Nous sommes désolés, mais pour le moment seul Internet Explorer 7 est compatible avec SQL Laboratory. Il est disponible gratuitement sur le site de Microsoft. D'autres navigateurs comme Firefox, Safari et Opéra sont compatibles."
 
 msgid: "You don't appear to have cookies enabled. For sessions to work, most php installations require cookies."
 msgstr: "Vous ne semblez pas avoir activé les cookies. Pour les sessions de travail, la plupart des installations php nécessitent les cookies."

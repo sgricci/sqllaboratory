@@ -360,7 +360,7 @@ msgstr: ""
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: ""
 
-msgid: "Welcome to SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
 msgstr: ""
 
 msgid: "You are connected to MySQL %s with the user %s."
@@ -369,10 +369,10 @@ msgstr: ""
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: ""
 
-msgid: "A new version of SQL Buddy is available!"
+msgid: "A new version of SQL Laboratory is available!"
 msgstr: ""
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
 msgstr: ""
 
 msgid: "Getting started"

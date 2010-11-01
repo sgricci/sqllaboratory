@@ -1,15 +1,15 @@
 <?php
 /*
 
-SQL Buddy - Web based MySQL administration
-http://www.sqlbuddy.com/
+SQL Laboratory - Web based MySQL administration
+http://projects.deepcode.net/sqllaboratory
 
 home.php
 - create a new database, links, etc
 
 MIT license
 
-2008 Calvin Lough <http://calv.in>
+2008 Calvin Lough <http://calv.in>, 2010 Steve Gricci <http://deepcode.net>
 
 */
 
@@ -21,7 +21,7 @@ loginCheck();
 <table class="hometable">
 <tr>
 	<td>
-	<h4><?php echo __("Welcome to SQL Buddy!"); ?></h4>
+	<h4><?php echo __("Welcome to SQL Laboratory!"); ?></h4>
 	</td>
 </tr>
 <tr>
@@ -51,13 +51,13 @@ loginCheck();
 	if (function_exists("curl_init") && ((isset($sbconfig['EnableUpdateCheck']) && $sbconfig['EnableUpdateCheck'] == true) || !isset($sbconfig['EnableUpdateCheck']))) {
 		
 		//check for a new version
-		$crl = curl_init();
-		$url = "http://www.sqlbuddy.com/versioncheck2.php";
-		curl_setopt($crl, CURLOPT_URL, $url);
-		curl_setopt($crl, CURLOPT_RETURNTRANSFER, 1);
-		curl_setopt($crl, CURLOPT_CONNECTTIMEOUT, 5); // 5 seconds
-		$content = curl_exec($crl);
-		curl_close($crl);
+		//$crl = curl_init();
+		//$url = "http://projects.deepcode.net/sqllaboratory/versioncheck2.php";
+		//curl_setopt($crl, CURLOPT_URL, $url);
+		//curl_setopt($crl, CURLOPT_RETURNTRANSFER, 1);
+		//curl_setopt($crl, CURLOPT_CONNECTTIMEOUT, 5); // 5 seconds
+		//$content = curl_exec($crl);
+		//curl_close($crl);
 		
 		if (strlen($content) > 0) {
 			$content = strip_tags($content);
@@ -73,7 +73,7 @@ loginCheck();
 			<?php
 			
 			if (version_compare($version, VERSION_NUMBER, ">")) {
-				echo '<span style="background-color: rgb(255, 255, 200); padding: 1px 3px 1px 4px">' . __("A new version of SQL Buddy is available!") . '</span> <a href="http://www.sqlbuddy.com/download/dl.php">' . __("Download") . ' &raquo;</a>';
+				echo '<span style="background-color: rgb(255, 255, 200); padding: 1px 3px 1px 4px">' . __("A new version of SQL Laboratory is available!") . '</span> <a href="http://projects.deepcode.net/sqllaboratory/download/dl.php">' . __("Download") . ' &raquo;</a>';
 			} else {
 				echo __("There are no updates available") . ".";
 			}
@@ -149,9 +149,9 @@ loginCheck();
 	<td style="padding: 1px 0 15px 10px">
 	
 	<ul>
-	<li><a href="http://www.sqlbuddy.com/help/"><?php echo __("Help"); ?></a></li>
-	<li><a href="http://www.sqlbuddy.com/translations/"><?php echo __("Translations"); ?></a></li>
-	<li><a href="http://www.sqlbuddy.com/contact/"><?php echo __("Contact"); ?></a></li>
+	<li><a href="http://projects.deepcode.net/sqllaboratory/help/"><?php echo __("Help"); ?></a></li>
+	<li><a href="http://projects.deepcode.net/sqllaboratory/translations/"><?php echo __("Translations"); ?></a></li>
+	<li><a href="http://projects.deepcode.net/sqllaboratory/contact/"><?php echo __("Contact"); ?></a></li>
 	</ul>
 	
 	</td>

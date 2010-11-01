@@ -360,8 +360,8 @@ msgstr: "Cerrar sesión"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Por alguna razón, los valores de las tablas no fueron incluidos."
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Bienvenido a SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Bienvenido a SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Se ha conectado al MySQL %s con el usuario %s."
@@ -369,11 +369,11 @@ msgstr: "Se ha conectado al MySQL %s con el usuario %s."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "El servidor de bases de datos ha estado ejecutándose desde %s y ha transferido aproximadamente %s de datos."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "¡Está disponible una nueva versión de SQL Buddy!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "¡Está disponible una nueva versión de SQL Laboratory!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Usted tiene instalado SQL Buddy %s y %s está disponible."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Usted tiene instalado SQL Laboratory %s y %s está disponible."
 
 msgid: "Getting started"
 msgstr: "Primeros pasos"

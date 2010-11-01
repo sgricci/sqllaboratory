@@ -360,8 +360,8 @@ msgstr: "Kilépés"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Valamilyen okból kifolyólag, a tábla paraméter nem volt belefoglalva a kérésbe"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Üdvözöli az SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Üdvözöli az SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "MySQL %s-hoz vagy csatlakozva mint %s felhasználó."
@@ -369,11 +369,11 @@ msgstr: "MySQL %s-hoz vagy csatlakozva mint %s felhasználó."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Az adatbázis szerver %s óta fut és hozzávetőlegesen %s adatforgalmat generált"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Az SQL Buddy egy újabb verziója elérhető!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Az SQL Laboratory egy újabb verziója elérhető!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Az SQL Buddy %s verziója van installálva és elérhető a %s verzió"
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Az SQL Laboratory %s verziója van installálva és elérhető a %s verzió"
 
 msgid: "Getting started"
 msgstr: "Elindulás"

@@ -1,15 +1,15 @@
 <?php
 /*
 
-SQL Buddy - Web based MySQL administration
-http://www.sqlbuddy.com/
+SQL Laboratory - Web based MySQL administration
+http://projects.deepcode.net/sqllaboratory
 
 functions.php
 - gets the page setup with the variables it needs
 
 MIT license
 
-2008 Calvin Lough <http://calv.in>
+2008 Calvin Lough <http://calv.in>, Steve Gricci <http://deepcode.net>
 
 */
 
@@ -33,7 +33,10 @@ if (version_compare(PHP_VERSION, "5.0.0", "<"))
 else
 	include INCLUDES_DIR . "class/Sql.php";
 
-define("VERSION_NUMBER", "1.3.2");
+define('VERSION_MAJOR', '1');
+define('VERSION_MINOR', '0');
+define('VERSION_REVISION', '0');
+define("VERSION_NUMBER", VERSION_MAJOR.'.'.VERSION_MINOR.'.'.VERSION_REVISION);
 define("PREVIEW_CHAR_SIZE", 75);
 
 $adapterList[] = "mysql";
@@ -248,7 +251,7 @@ global $lang;
 
 <html xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en">
 	<head>
-		<title>SQL Buddy</title>
+		<title>SQL Laboratory</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 		<link type="text/css" rel="stylesheet" href="<?php echo smartCaching("css/common.css"); ?>" media="all" />
 		<link type="text/css" rel="stylesheet" href="<?php echo smartCaching("css/navigation.css"); ?>" media="all" />

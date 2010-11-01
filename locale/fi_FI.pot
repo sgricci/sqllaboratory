@@ -360,8 +360,8 @@ msgstr: "Kirjaudu ulos"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Jostakin syystä taulun parametriä ei sisällytetty pyyntöösi"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Tervetuloa SQL Buddyyn!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Tervetuloa SQL Laboratoryyn!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Olet yhdistettynä MySQL:ään %s käyttäjän %s kanssa."
@@ -369,11 +369,11 @@ msgstr: "Olet yhdistettynä MySQL:ään %s käyttäjän %s kanssa."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Tietokantapalvelin on ollut käynnissä %s lähtien ja dataa on siirretty n. %s."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Uusi versio SQL Buddysta on saatavilla!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Uusi versio SQL Laboratorysta on saatavilla!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Sinulla on SQL Buddy %s asennettu ja %s on nyt saatavissa."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Sinulla on SQL Laboratory %s asennettu ja %s on nyt saatavissa."
 
 msgid: "Getting started"
 msgstr: "Aloitusohjeet"

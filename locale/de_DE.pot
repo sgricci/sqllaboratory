@@ -360,8 +360,8 @@ msgstr: "Abmelden"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Der Tabellekjghkjenthalten."
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Willkommen bei SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Willkommen bei SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Verbunden mit MySQL %s als Benutzer %s."
@@ -369,11 +369,11 @@ msgstr: "Verbunden mit MySQL %s als Benutzer %s."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Der Datenbank Server läuft seit %s und hat etwa %s Daten transferiert."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Eine neue Version von SQL Buddy ist verfügbar!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Eine neue Version von SQL Laboratory ist verfügbar!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Du hast SQL Buddy %s installiert und %s ist nun verfügbar."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Du hast SQL Laboratory %s installiert und %s ist nun verfügbar."
 
 msgid: "Getting started"
 msgstr: "Einführung"

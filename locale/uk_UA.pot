@@ -360,8 +360,8 @@ msgstr: "Вихід"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "З певних причин, назва таблиці не була включена в ваш запит"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Вас вітає SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Вас вітає SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Ви з'єднані з MySQL %s як користувач %s.	"
@@ -369,11 +369,11 @@ msgstr: "Ви з'єднані з MySQL %s як користувач %s.	"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Сервер баз даних працює з %s іприблизно передав %s даних."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Доступна нова версія SQL Buddy"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Доступна нова версія SQL Laboratory"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Ваша версія SQL Buddy %s а зараз доступна %s для завантаження."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Ваша версія SQL Laboratory %s а зараз доступна %s для завантаження."
 
 msgid: "Getting started"
 msgstr: "Почати"

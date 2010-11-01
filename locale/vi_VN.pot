@@ -360,8 +360,8 @@ msgstr: "Thoát"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Thiếu tham số của bảng theo request"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "SQL Buddy chào bạn!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "SQL Laboratory chào bạn!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Bạn kết nối vào MySQL %s bằng tài khoản %s"
@@ -369,11 +369,11 @@ msgstr: "Bạn kết nối vào MySQL %s bằng tài khoản %s"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Server chạy từ %s và chuyển dữ liệu khoảng %s"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Đã có phiên bản mới của SQL Buddy"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Đã có phiên bản mới của SQL Laboratory"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Bạn đã cài đặt %s SQL Buddy thành công"
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Bạn đã cài đặt %s SQL Laboratory thành công"
 
 msgid: "Getting started"
 msgstr: "Bắt đầu"
@@ -586,7 +586,7 @@ msgid: "Are you sure you want to drop the database '%s'? This will delete the da
 msgstr: "Có muốn hủy database %s? Toàn bộ database, bảng và dữ liệu bên trong. Lệnh truy vấn sau sẽ được thi hành:"
 
 msgid: "We're sorry, but currently only Internet Explorer 7 is supported. It is available as a free download on Microsoft's website. Other free browsers are also supported, including Firefox, Safari, and Opera."
-msgstr: "Hiện tại SQL Buddy chỉ hỗ trợ Internet Explorer 7, bạn có thể tải từ trang Microsoft, và một số browser miễn phí khác như Firefox, Safari và Opera."
+msgstr: "Hiện tại SQL Laboratory chỉ hỗ trợ Internet Explorer 7, bạn có thể tải từ trang Microsoft, và một số browser miễn phí khác như Firefox, Safari và Opera."
 
 msgid: "You don't appear to have cookies enabled. For sessions to work, most php installations require cookies."
 msgstr: "Vui lòng cho phép sử dụng cookies để lưu phiên làm việc."

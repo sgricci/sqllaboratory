@@ -360,8 +360,8 @@ msgstr: "Odhlásit"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Z nějakého důvodu se tabulka parametr nebyla zahrnuta s vaší žádosti "
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Vítejte v SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Vítejte v SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Jste spojen s MySQL %s a s uživatelem %s"
@@ -369,11 +369,11 @@ msgstr: "Jste spojen s MySQL %s a s uživatelem %s"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Databázový server běží od %s a poslal přibližně %s dat"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Nová verze SQL Buddy je k dispozici! "
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Nová verze SQL Laboratory je k dispozici! "
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "SQL Buddy %s je nainstalován a %s je k dispozici."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "SQL Laboratory %s je nainstalován a %s je k dispozici."
 
 msgid: "Getting started"
 msgstr: "Začínáme"

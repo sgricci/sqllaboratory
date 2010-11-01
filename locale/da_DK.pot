@@ -360,8 +360,8 @@ msgstr: "Log ud"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Databaseparameteren var ikke inkluderet i din forespørgsel"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Velkommen til SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Velkommen til SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Du har forbindelse til MySQL %s med brugeren %s"
@@ -369,11 +369,11 @@ msgstr: "Du har forbindelse til MySQL %s med brugeren %s"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "Databasen server har kørt siden %s og har overført ca %s af data"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "En ny version af SQL Buddy er tilgængelig!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "En ny version af SQL Laboratory er tilgængelig!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Du har SQL Buddy version %s installeret og %s er nu tilgængelig."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Du har SQL Laboratory version %s installeret og %s er nu tilgængelig."
 
 msgid: "Getting started"
 msgstr: "Kom i gang"

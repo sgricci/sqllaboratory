@@ -360,8 +360,8 @@ msgstr: "登出"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "因為某種原因，表格變數並沒有與您的要求送出"
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "歡迎使用 SQL Buddy!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "歡迎使用 SQL Laboratory!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "您已連結到 MySQL %s，並登入為使用者 %s。"
@@ -369,11 +369,11 @@ msgstr: "您已連結到 MySQL %s，並登入為使用者 %s。"
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "資料庫伺服器自從 %s 起已傳輸了大約 %s 的資料。"
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "新版的 SQL Buddy 已經釋出!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "新版的 SQL Laboratory 已經釋出!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "您已成功安裝 SQL Buddy %s ，最新版本是 %s 。"
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "您已成功安裝 SQL Laboratory %s ，最新版本是 %s 。"
 
 msgid: "Getting started"
 msgstr: "快速入門"

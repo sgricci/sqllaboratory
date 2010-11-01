@@ -360,8 +360,8 @@ msgstr: "Odjava"
 msgid: "For some reason, the table parameter was not included with your request"
 msgstr: "Zaradi neznanega razloga, parameter tabele ni bil vključen v vaši zahtevi  "
 
-msgid: "Welcome to SQL Buddy!"
-msgstr: "Dobrodošli v SQL Buddyu!"
+msgid: "Welcome to SQL Laboratory!"
+msgstr: "Dobrodošli v SQL Laboratoryu!"
 
 msgid: "You are connected to MySQL %s with the user %s."
 msgstr: "Povezani ste v MySQL bazo %s uporabniškim imenom %s."
@@ -369,11 +369,11 @@ msgstr: "Povezani ste v MySQL bazo %s uporabniškim imenom %s."
 msgid: "The database server has been running since %s and has transferred approximately %s of data."
 msgstr: "SQL strežnik je zagnan od %s, prenešenih pa je bilo približno %s podatkov."
 
-msgid: "A new version of SQL Buddy is available!"
-msgstr: "Nova verzija SQL Buddy je na voljo!"
+msgid: "A new version of SQL Laboratory is available!"
+msgstr: "Nova verzija SQL Laboratory je na voljo!"
 
-msgid: "You have SQL Buddy %s installed and %s is now available."
-msgstr: "Nameščen je SQL Buddy %s in %s je na voljo."
+msgid: "You have SQL Laboratory %s installed and %s is now available."
+msgstr: "Nameščen je SQL Laboratory %s in %s je na voljo."
 
 msgid: "Getting started"
 msgstr: "Za začetek"

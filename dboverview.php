@@ -319,7 +319,7 @@ if ($conn->isResultSet($currentCharSql)) {
 	</tr>
 	<?php
 	
-	if (isset($charsetList)) {
+	if (!empty($charsetList)) {
 		echo "<tr>";
 		echo "<td class=\"secondaryheader\" style=\"width: 60px\">";
 		echo __("Charset") . ":";
@@ -334,6 +334,25 @@ if ($conn->isResultSet($currentCharSql)) {
 				echo " selected=\"selected\"";
 			
 			echo ">" . $charset . "</option>";
+		}
+		echo "</select>";
+		echo "</td>";
+		echo "</tr>";
+	}
+	if (!empty($storageEngines)) {
+		echo "<tr>";
+		echo "<td class=\"secondaryheader\" style=\"width: 60px\">";
+		echo __("Engine") . ":";
+		echo "</td>";
+		echo "<td>";
+		echo "<select id=\"TABLEENGINE\" style=\"width: 155px\">";
+		foreach ($storageEngines as $engine_key => $engine) {
+			echo "<option value=\"" . $engine_key . "\"";
+			
+			if (!empty($engine) && $engine_key == $currentEngine)
+				echo " selected=\"selected\"";
+			
+			echo ">" . $engine . "</option>";
 		}
 		echo "</select>";
 		echo "</td>";

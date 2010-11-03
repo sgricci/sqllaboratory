@@ -86,6 +86,14 @@ $langList['zh_CN'] = "中文 (简体)";
 $langList['zh_TW'] = "中文 (繁體)";
 $langList['ja_JP'] = "日本語";
 
+$storageEngines['MYISAM'] 		= 'MyISAM';
+$storageEngines['INNODB'] 		= 'InnoDB';
+$storageEngines['CSV'] 			= 'CSV';
+$storageEngines['MRG_MYISAM'] 	= 'MRG_MYISAM';
+$storageEngines['MEMORY'] 		= 'MEMORY';
+$storageEngines['ARCHIVE'] 		= 'ARCHIVE';
+$storageEngines['BLACKHOLE'] 	= 'BLACKHOLE';
+
 if (isset($_COOKIE['sb_lang']) && array_key_exists($_COOKIE['sb_lang'], $langList)) {
 	$lang = preg_replace("/[^a-z0-9_]/i", "", $_COOKIE['sb_lang']);
 } else {

@@ -924,12 +924,18 @@ function createTable() {
 		createQuery = createQuery.substring(0, createQuery.length-2);
 		createQuery += ")";
 		
+		if ($('TABLEENGINE')) {
+			var engine = $('TABLEENGINE').value;
+			if (engine != "")
+				createQuery += " ENGINE = " + engine;
+		}
 		if ($('TABLECHARSET')) {
 			var charset = $('TABLECHARSET').value;
 			if (charset != "")
 				createQuery += " CHARSET " + charset;
 		}
 		
+		console.log(createQuery);
 		var x = new XHR({url: "ajaxcreatetable.php", onSuccess: createTableCallback}).send("table=" + tableName + "&query=" + createQuery);
 	}
 	else if (!(f(tableName))) {
